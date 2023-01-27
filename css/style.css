@@ -287,8 +287,8 @@ header.shadow .logo{
 .content-img{
     max-width: 100%;
     max-height: 100%;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: left;
     border-radius: 8px;
