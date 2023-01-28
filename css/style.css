@@ -298,6 +298,14 @@ header.shadow .logo{
     padding: auto;
 }
 
+.amazon-link{
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 60px;
+    text-align: justify;
+    border: #627efa;
+}
+
 /* Responsive */
 @media(max-width:1060px){
     .container{
